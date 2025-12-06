@@ -18,7 +18,7 @@ Essentially, I can make computers talk with other computers.
 
 ## Currently working on 🔭
 - Obtaining my Cisco CCNA certificate
-- CLI Network scanner with ARP discovery (repo coming soon)
+- CLI Network scanner with ARP discovery (https://github.com/jackswash/python-arp-network-scanner)
 - Robust and modern Cisco Packet Tracer network designs (repo coming soon)
 
 ---
